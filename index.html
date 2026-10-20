@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Kim Jong Un Watch</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%93%A1%3C/text%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#edf0f2;--ink:#16222c;--muted:#55646f;--rule:#c9d1d7;--health:#9c3d2e;--daughter:#6b5a8a;--sister:#2a7466;--changes:#1c5f8a;--warn:#a86d00;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#10181e;--ink:#e3e9ed;--muted:#93a1ac;--rule:#2c3943;--health:#e07a68;--daughter:#b3a2d6;--sister:#6fc4b0;--changes:#6fb0dd;--warn:#e0a43a;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.5 "Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:40px 20px 56px}
+h1{font:600 clamp(2.2rem,7vw,3.4rem)/1.05 "Newsreader",Georgia,serif;margin:0 0 10px}
+.sub,.stamp{color:var(--muted);margin:0}
+.stamp{margin-top:12px;font-size:.92rem}
+.note{margin:18px 0 0;padding:12px 14px;border:1.5px dashed var(--warn);border-radius:8px;font-size:.95rem}
+.warn{color:var(--warn);font-weight:600}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:26px 0 6px}
+.filters button{font:500 .9rem "Instrument Sans",system-ui,sans-serif;color:var(--ink);background:transparent;border:1px solid var(--rule);border-radius:999px;padding:6px 14px;cursor:pointer}
+.filters button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+button:focus-visible,a:focus-visible{outline:3px solid var(--changes);outline-offset:2px}
+h2{font:600 1.4rem/1.2 "Newsreader",Georgia,serif;margin:32px 0 12px}
+ul{list-style:none;margin:0;padding:0 0 0 20px;border-left:2px solid var(--rule)}
+li{position:relative;margin:0 0 18px}
+li::before{content:"";position:absolute;left:-27px;top:8px;width:11px;height:11px;border-radius:50%;background:var(--c);border:3px solid var(--bg)}
+.tag{font-size:.85rem;font-weight:600;color:var(--c)}
+.unc{color:var(--warn);margin-left:8px}
+li a{display:block;font:600 1.15rem/1.3 "Newsreader",Georgia,serif;color:var(--ink);text-decoration:none}
+li a:hover{text-decoration:underline;text-underline-offset:3px}
+.meta{font-size:.88rem;color:var(--muted)}
+.msg{color:var(--muted);margin-top:32px}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--rule);color:var(--muted);font-size:.92rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Kim Jong Un Watch</h1>
+    <p class="sub">Headlines on Kim Jong Un’s health, his daughter Kim Ju Ae, his sister Kim Yo Jong, and changes in his role or public appearances. Refreshed every hour.</p>
+    <p class="stamp" id="stamp">Loading latest headlines…</p>
+    <p class="note">Health claims about Kim often come from anonymous sources and have been wrong before. Treat them as unconfirmed unless official sources confirm them.</p>
+  </header>
+  <div class="filters" id="filters" role="group" aria-label="Filter headlines by topic"></div>
+  <main id="feed" aria-live="polite"></main>
+  <footer>Headlines link to the original publishers. This page collects them automatically and does not verify the reporting.</footer>
+</div>
+<script>
+var CATS={all:"All",health:"Health",daughter:"Daughter",sister:"Sister",changes:"Changes",ko:"한국어"};
+var data={items:[]},cur="all";
+function esc(s){return String(s).replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function ago(ms){var m=Math.round(ms/60000);if(m<1)return"just now";if(m<60)return m+" min ago";var h=Math.round(m/60);if(h<24)return h+" hr ago";var d=Math.round(h/24);return d+" day"+(d>1?"s":"")+" ago"}
+function dayKey(d){return d.getFullYear()+"-"+d.getMonth()+"-"+d.getDate()}
+function dayLabel(d){var t=new Date(),y=new Date(Date.now()-864e5);
+  if(dayKey(d)===dayKey(t))return"Today";if(dayKey(d)===dayKey(y))return"Yesterday";
+  return d.toLocaleDateString(undefined,{weekday:"long",month:"long",day:"numeric"})}
+function render(){
+  var stamp=document.getElementById("stamp"),feed=document.getElementById("feed");
+  if(data.generated_at){
+    var age=Date.now()-new Date(data.generated_at).getTime();
+    stamp.innerHTML="Updated "+ago(age)+" ("+new Date(data.generated_at).toLocaleString(undefined,{dateStyle:"medium",timeStyle:"short"})+")"+(age>6*36e5?' <span class="warn">Updates have paused, so newer stories may be missing.</span>':"");
+  }else stamp.textContent="No headlines collected yet. The first update runs within the hour.";
+  var items=data.items.filter(function(i){var ko=i.lang==="ko";return cur==="ko"?ko:(!ko&&(cur==="all"||i.category===cur))});
+  if(!items.length){
+    feed.innerHTML='<p class="msg">'+(cur==="health"?"No recent headlines about Kim Jong Un’s health. That is normal unless something is being reported.":"No recent headlines in this topic.")+"</p>";return}
+  var html="",last="";
+  items.forEach(function(i){
+    var d=new Date(i.published),k=dayKey(d),cat=(CATS[i.category]&&i.category!=="all"&&i.category!=="ko")?i.category:"changes";
+    if(k!==last){if(last)html+="</ul>";html+="<h2>"+dayLabel(d)+"</h2><ul>";last=k}
+    html+='<li style="--c:var(--'+cat+')"><span class="tag">'+CATS[cat]+(i.unconfirmed?' <span class="unc">Unconfirmed claim</span>':"")+'</span><a href="'+esc(i.link)+'" target="_blank" rel="noopener"'+(i.lang==="ko"?' lang="ko"':'')+'>'+esc(i.title)+'</a><div class="meta">'+esc(i.source)+", "+d.toLocaleTimeString(undefined,{hour:"numeric",minute:"2-digit"})+"</div></li>";
+  });
+  feed.innerHTML=html+"</ul>";
+}
+function load(){
+  fetch("data/news.json?t="+Date.now()).then(function(r){return r.json()}).then(function(j){data=j;render()}).catch(function(){
+    document.getElementById("stamp").textContent="Couldn’t load headlines. Refresh the page to try again."});
+}
+var fb=document.getElementById("filters");
+Object.keys(CATS).forEach(function(k){
+  var b=document.createElement("button");b.type="button";b.textContent=CATS[k];b.setAttribute("aria-pressed",k===cur);
+  b.addEventListener("click",function(){cur=k;Array.prototype.forEach.call(fb.children,function(x){x.setAttribute("aria-pressed",x===b)});render()});
+  fb.appendChild(b);
+});
+load();setInterval(load,600000);
+</script>
+</body>
+</html>
