@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T18:43:40.380589+00:00",
+ "generated_at": "2026-10-24T19:36:36.414409+00:00",
  "items": [
   {
    "title": "Kim Jong-un Makes Surprise China Visit Amid Health Rumors",
@@ -79,6 +79,15 @@
    "source": "한겨레",
    "lang": "ko",
    "published": "2026-10-24T07:52:00+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "'건강 이상설' 김정은 깜짝 방중…신압록대교 건너 단둥 도착",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UbVQxTjlRMlBDZ2pNbGtiWC1kY0x3aXY4T3ljNmtmZGg1dEFfc09SQ2xwTk8zMFQ4OUlCZEtvT2VxYmZWQ05tTVU4VHJ4WEtTUzJnSE5oWHlySU94M0dRV2hja1ZmQUJiVmfSAW5BVV95cUxQMzQ5Z1J4UGJxZENXTUVQdGZFTVZiLWtMbDEzbE5fYndISlhZalR2OW1aRXpUeXlZVG95NEtGR0s5MlU0MXd1dldNb0w4aTJLSkVrZjVTbi0yRjUtczJsUDFPUk9lREtpWUxDQVdvZw?oc=5",
+   "source": "뉴시안",
+   "lang": "ko",
+   "published": "2026-10-24T06:41:04+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -722,6 +731,15 @@
    "unconfirmed": true
   },
   {
+   "title": "[아는기자]북한 이상징후?…김여정 전면에, 왜?",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FMTh3MERzNW1wRW5KNXpIUWlHZGxMNm1lUmJPUHdwdWxMVWhNRTUxMDhsNnExTENpQlNiWV9WeVc5M2dYTXVrNkFwREpFa3k4NE1Cb0JpSzlnSDMtNlHSAWNBVV95cUxQd1Vpdk1IOC1mNkpEb1hueEFqNWozSnYxLUd6MUJTVGU3MDc2akZoTlc0TVg2emJxaFhaZXM4cmU1bUVxLVdINDE0VktLazlSVkNJS1dtb2FTN1dPT1F0MkZmZEk?oc=5",
+   "source": "채널A",
+   "lang": "ko",
+   "published": "2026-10-22T10:05:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "김여정 “전 국경선에 새 대응수단 임무대기”",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fT2hFTWxOYzdRQTZRUWM2aER1Vl95Z3ZhQ2FCeUlua1pBanA1RXBXQXoxNXFGMWxTb2NuQko2ZmVnOFIyc0d2Ny1mU1pGZGd2anBFZk5teWNDd3RGTlHSAWNBVV95cUxPSlRhY1lJQVpnNDEzNDZMSFAwZ05XYXRULURVMjJkYkhRQWtNR0pfQk9nRmU3MUJocEdUYjczZFpGYU05UVNQdzJJOExIMzJIakU2RjVXOG5oWDV1TmhoVWJ4aTQ?oc=5",
    "source": "채널A",
@@ -783,15 +801,6 @@
    "published": "2026-10-22T08:24:29+00:00",
    "category": "sister",
    "unconfirmed": false
-  },
-  {
-   "title": "[LAW투데이]김정은 '사망설' 누가 퍼뜨렸나",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVdm9EMmlQckxkVllNNFd3LVFJU2E2ZGdnUk5qUXdBajJSYThfakVnQjhWQjc0THNwWnZoUEgtdnp6dHh6MXVDSkxwenBPYm5zYlhlRnp5eWFXQlhxOGktaE9TVXY?oc=5",
-   "source": "법률방송뉴스",
-   "lang": "ko",
-   "published": "2026-10-22T07:57:14+00:00",
-   "category": "health",
-   "unconfirmed": true
   },
   {
    "title": "'김정은 사망설' 속 전방에 나선 김여정 [앵커리포트]",
@@ -1071,15 +1080,6 @@
    "published": "2026-10-21T23:54:18+00:00",
    "category": "health",
    "unconfirmed": true
-  },
-  {
-   "title": "\"당장 입을 닥치라\"...김병주 겨냥한 김여정 \"송사리 같은 자가\"",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWMWdYNUlBdTNyTlN2ZXY0dHA2S0dJVkN3cVJha1ZQU3laczIxcHliaXVSa0V1ckJSOV9INlJ2Q25jSUxxTVV1NXBLOHBBUTZrcjZMMA?oc=5",
-   "source": "JTBC",
-   "lang": "ko",
-   "published": "2026-10-21T23:48:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
   }
  ]
 }
