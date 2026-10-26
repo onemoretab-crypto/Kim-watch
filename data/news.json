@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T23:36:35.689200+00:00",
+ "generated_at": "2026-10-26T01:05:44.475481+00:00",
  "items": [
   {
    "title": "Kim Jong Un makes surprise China trip after death rumours",
@@ -9,15 +9,6 @@
    "published": "2026-10-25T18:39:31+00:00",
    "category": "health",
    "unconfirmed": true
-  },
-  {
-   "title": "접경지에 북한군 자주포…김여정 언급한 ‘전술적 타격 수단’?",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00aXdKMDRzUW9FZ1l0a0RobzRveHQxMW1EUDJUYS1TU2x5MzZCakJ5dnZGVm5uQ2JkY1dsTEcwQlJwQUFtc2RMN25NQndUbm4tM0JWa3hEQ1RjRmMwT1E?oc=5",
-   "source": "주간경향",
-   "lang": "ko",
-   "published": "2026-10-25T13:39:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
   },
   {
    "title": "대남 위협 쏟던 김여정, 김정은 방중 동행… \"김여정은 北의 엄청난 무기\"",
@@ -117,6 +108,15 @@
    "published": "2026-10-24T10:07:36+00:00",
    "category": "health",
    "unconfirmed": false
+  },
+  {
+   "title": "Kim Jong-un makes surprise visit to China after over a year, dispelling health rumors : Politics : JKN",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51RFdUclBmcUJSX2pMNnVoWWR0WEVxa0V4dEthdHIzcGh3SXQ4Znl6Q2d3a1VFYjUxaWUzMG1XWjNISTVJbkNnY0h3dnRtM0Y4ZTg5b1h1STJNZVF6UlViNXdn?oc=5",
+   "source": "재경일보",
+   "lang": "en",
+   "published": "2026-10-24T09:15:03+00:00",
+   "category": "health",
+   "unconfirmed": true
   },
   {
    "title": "통일부 \"김정은 신압록대표 통해 방중\"⋯국정원 \"김정은 사망설 허위\"",
@@ -416,11 +416,29 @@
    "unconfirmed": true
   },
   {
+   "title": "`140㎏대 비만이지만…` 국정원, `김정은 사망설 허위` 국회에 보고",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ISjVrVkp1RG1DTm1vZHhYMHYxbDhJT0VaVC01YTJEYTk0UGxPaU5SM3p6M0FCQmdnRHM1bEJzdjJBYUJMTmowTjdXYTJJck9MUGJpM05WZC1ER2dYSUUyR1dB?oc=5",
+   "source": "매일신문",
+   "lang": "ko",
+   "published": "2026-10-23T11:06:54+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
    "title": "Major update on Kim Jong-un's death rumours as 'major intelligence meeting held'",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUC1YTF9GWW5EUmJfS0VmNzNDMXB2amVubDNhbkwzcFlWUVBldy12WkpfTFo2dlVvYXdjd2ZKXzM3UHF5OC0yUTg4dmFCTjI1ZW5na1BfVUQ0azVLOHp3ZkZvZ2NUVTFHUUUxamhsVlVnbVB0NURlNGdLZnJpRWF4U1BnYzBBaVVUaGgwX0l4UERIUk3SAZgBQVVfeXFMTmc5c00xZXREUjdqNy14OGlsUFk0cnBlV2J6N3B2ZFZMWi1OSmJ1OWlxY0laeWh3X1dWbzZrcHctWWd1aTRBbXJYczRyZk9NX3h4cVZwOTZRenozUThnNW5ESGR3TWM3SzBpYXdvZHhzVk1jNzA0NU4ycHFmWFJqTi1MdjhxVzdTNUdDUWNrQ2F0QmVITzZ0Unk?oc=5",
    "source": "Daily Express",
    "lang": "en",
    "published": "2026-10-23T10:45:00+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "국정원, 해외발 ‘김정은 사망설’ 일축…“명백한 허위 사실”",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBONVZhU0wtYkNnZkdkaHRvZUowb2hmVzV0OTVLR1Vub0VfZ2lrU0ZQaXlJbThIN3N1UWllUFpLZEJKUVZlaTdmanZ4ejZvTWR4NVFGek1BWjdMNlp0WmpDQUJxaW1zTnhRcXfSAVRBVV95cUxOWWUzM3RfYzFBQmY3dlJIYWxhRklQSnV6U3hDU3pXaHJtQldBaWRSeDZpUUJVNGJHS25GWTRfVzVsVFZvbGhsVnFmNGhHREJvS1BiM0g?oc=5",
+   "source": "세계일보",
+   "lang": "ko",
+   "published": "2026-10-23T10:37:36+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -439,6 +457,15 @@
    "source": "한국경제",
    "lang": "ko",
    "published": "2026-10-23T09:47:13+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "[속보] 국정원 “김정은 사망설은 허위” 국회에 보고",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11Ym03empXZE5jLUdlYUl0Smg3djU3NFVkVVdoVFJPczFLUVN1TV9Na0JZT3c2VDhTTjJhbDNhdlpiY3dNNUJzWTRuTEs5ZU1sWjVXenlVQQ?oc=5",
+   "source": "서울신문",
+   "lang": "ko",
+   "published": "2026-10-23T09:35:49+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -475,15 +502,6 @@
    "source": "샌드타임즈",
    "lang": "ko",
    "published": "2026-10-23T09:21:02+00:00",
-   "category": "health",
-   "unconfirmed": true
-  },
-  {
-   "title": "NIS tells Assembly intelligence panel Kim Jong-un death rumors are false",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eWQyd3dHbDRJZ2xLSGNUZmZYa0t4TjdzbHl4MUdIdnJYRUlFRE5sNlppaGUyTWlvcGRSVEdWamQ5ODRieWxRVXdfQ292T09nOWJNYWEzdw?oc=5",
-   "source": "헤럴드경제",
-   "lang": "en",
-   "published": "2026-10-23T09:17:58+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -529,6 +547,15 @@
    "source": "YTN",
    "lang": "ko",
    "published": "2026-10-23T05:50:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "北김여정, 전례없는 소나기 '등판'…전문가 \"조바심 느껴져\"",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITWV1eDNIWFVHb2JXV2Q1YXhjdjJFTnNYWkM4SElJNDk5Ri1zMkUtVzN1dWxRaVZ3blhqTVJoTXFzT1dWajNxX2FVNzlUMGpHTDRFbGlUYldCdlHSAWBBVV95cUxONmZUcGdZME9kWjliQ0ttSmhKZnM0aldHT25JUzdIMG1SU3JETjg2cm9mSURrVUgydXg2SjZORllUcTR1ZkRvS0FnUjNJX3JESmV0OU56V0hRbkFtX2RVZEY?oc=5",
+   "source": "연합뉴스",
+   "lang": "ko",
+   "published": "2026-10-23T04:47:48+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -596,6 +623,15 @@
    "unconfirmed": true
   },
   {
+   "title": "과도한 추측인가, 시한부 허장성세인가: 김여정의 히스테리가 가리키는 아킬레스건",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52em5aaVBtdFp3TDQ0Z3dFaXotdnZoQThoeDlpVHdnQWVGNzFfYm1CcU9nSDdaNjF0RVBiM1BfMVJreGhJVV9zNFpoa0dEQU5JeVhISVFVdHR5Q21CdFA0TUc2NlBaaVYy0gFoQVVfeXFMTnZ6blppUG10WndMNDRnd0Vpei12dmhBOGh4OWlUd2dBZUY3MV9ibUJxT2dIN1o2MXRFUGIzUF8xUmt4aElVX3M0WmhrR0RBTkl5WEhJUVV0dHlDbUJ0UDRNRzY2UFppVjI?oc=5",
+   "source": "최보식의언론",
+   "lang": "ko",
+   "published": "2026-10-22T21:24:15+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "What's behind the Kim Jong Un death rumors?",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQTVtdk1tY3dJZ19vOWJRQUpINms3N1RzaDlac2E5MDBqZnRRR2NXOFpSdlRvamtYU09FWlFhMlNCbXgzXzB0endLdVlQUmNXY2p0UmZzWEhVRXp5V3pQRlZmX1RCVU5qTzBaMWhXUHVkOUlKdnRON0N1OHpqU0hrOGQ5REh5eHFVZWZMYnlvajEyNGdSZWdB?oc=5",
    "source": "NBC News",
@@ -641,15 +677,6 @@
    "unconfirmed": true
   },
   {
-   "title": "Death Rumors Swirl Online, but Xi Jinping Sends Reply to Kim Jong Un",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRVhMTkxTcEYwcXZhQVFnQVVjN0JzWjllVTBBdkxrUzEzanh4RkxnblVzZFRkWmNqQS1vNEhyQ1o4RmtDdy0zaU1FQi1LYkJBUEIzN1RKMDU0dGNKOXktQjZJaGNOTEVEdVJkWnRB0gFmQVVfeXFMT1dhVDMtWXVnN2x4a1FSY1pDUEhVU0xpUVRqTmQ3VnQ4LVdVSDl1WFA3R3FkMkpMdHJPdWQ1cVhMOHB2aTNGNVRibUN5QS1EVGQ5a29BSGhyWjEtaUJncjdiZy00cE13?oc=5",
-   "source": "SBS 뉴스",
-   "lang": "en",
-   "published": "2026-10-22T16:09:00+00:00",
-   "category": "health",
-   "unconfirmed": true
-  },
-  {
    "title": "When Kim Jong Un dies, what happens in the next seven days?",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeG55R1lLNkNSMDhlTXpuSm5EY2RObEM4NUFnUFNwNmk0Tno0NzdCbXl4QXNucWVvTFNMM1Z6MWVLYWtWV1ZQc2FsTG9CVXZocU12TmhkazVtMWpLemlFRXpyZ3pScGgwZzIxRGlJdzFzVnJDVFhzZ19FeTlfTG8tbjRQUkZINU1mSlBrNnpNdVlOYUhMeWVoU050Q25nd0Nv0gGmAUFVX3lxTFAxYVAzUlliZERvREdfR1V1RmZqdDlVRzVSQ2NXY0dwejV6NmdmNXRYdktKb0cxcFlXMlJRM21taWFCRXU3VE1KZ2FtVDB1M2VDZ2FHMDcyMVR1WTJ3TEhMQTgyS0h6VThOWUltQ2EyLU9fU1JfX3NfMUhQV05BS3VLMmlPbkdKTkF4QkZhX3dJelJHaEFTdGdyRG5kZXhTQktNY2s3Nnc?oc=5",
    "source": "upi",
@@ -684,24 +711,6 @@
    "published": "2026-10-22T12:46:47+00:00",
    "category": "sister",
    "unconfirmed": false
-  },
-  {
-   "title": "Truth behind Kim Jong Un's 'death' - all the signs North Korean despot was 'deteriorating'",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2s1QWlCT2lISHRlajZRc1BwMkxWcU9ieTBud0VwaGtEemVpSlVmODd4OTZHZExsMlJIZkIwRnllQlJqeEFma09JZC1XaVJmMFRYTkVWNEF0ZjFwdVpTVVJEWnV4ZTh1a0xmQWlUcXZFdXRHdFFEdkdSbjFVZ3U3TEhKRDROdEXSAYwBQVVfeXFMUHJpYncwSXBOMjM0S09xRTlrLVZWSHd1YlZqdE1WbC0zZDhhYml1RmJXUVJfZFNkRENpSXc3Xy1RWW1hYjJzUTFjSlhzR2d5VVAwT0phVXV1bGhfVkhVZnFzS0VRTWg5TkZQU2NlbUY0d3ZfbEluWEttNjVmMV9EU1VsdnR5bkYzRk9LN0o?oc=5",
-   "source": "Daily Express",
-   "lang": "en",
-   "published": "2026-10-22T12:45:00+00:00",
-   "category": "health",
-   "unconfirmed": false
-  },
-  {
-   "title": "Rumors of Kim Jong Un's death persist as speculation and questions of authenticity continue",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1udW5adlBuWUpxT3lOOEsySjRRTGEzOGpfcnhDZ0FnVDZ0dGFKSWp2UE1jVmM0TUdqQ1NkTE5EZUFiRTNpajJla1FhZ0tRNFA3TEhyUFlCTmppNzlHOVdiV2dn?oc=5",
-   "source": "재경일보",
-   "lang": "en",
-   "published": "2026-10-22T12:20:03+00:00",
-   "category": "health",
-   "unconfirmed": true
   },
   {
    "title": "김여정 “확성기 수일 내 대기…위협 아닌 경고”",
@@ -1069,15 +1078,6 @@
    "source": "한겨레",
    "lang": "ko",
    "published": "2026-10-22T00:14:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "Kim Yo-jong Announces Resumption of Loudspeaker Broadcasts Toward South",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRTIzdUFCZmhVOG9ra2dkaW4xMzRSakhXX2RGUW9xUUhzbjRjYi0wWl80QkVGN3NNYU5lVVhUeXh4TFNSN2pGNU1aZ3c0Z1llbkhCdUxhcHlaX3owdTJSVXZhdE8wR2pybE9acEIyai1fYWMtWW56ZjcwWGNUdXJDd1p4RVNDaUxF?oc=5",
-   "source": "조선일보",
-   "lang": "en",
-   "published": "2026-10-22T00:06:59+00:00",
    "category": "sister",
    "unconfirmed": false
   }
