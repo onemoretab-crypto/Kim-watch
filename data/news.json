@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T01:05:44.475481+00:00",
+ "generated_at": "2026-10-26T01:54:01.250829+00:00",
  "items": [
   {
    "title": "Kim Jong Un makes surprise China trip after death rumours",
@@ -70,15 +70,6 @@
    "source": "UG Diplomat",
    "lang": "en",
    "published": "2026-10-24T15:25:02+00:00",
-   "category": "health",
-   "unconfirmed": true
-  },
-  {
-   "title": "Rumors swirl that Kim Jong un is dead as North Korea risks 'civil war",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGkxc2NqaHBCQVBDQm9WUHFaSEMtZHhDYTBCdzkzNTlHU0xYSWx0SVE2WkVRNlZYeTl5NVQzd0J3aWpjRmRfbjZlam85MWZGY1hld1p0TkFaYkZHcWpZTmJHR0x3OGFYOGZOVE80aTcycVl2TmFBRUtJS3hid0xpa0R0ZTA3dTNhRGZ2UUdtcmFiZWRvaGNLRkpZT1N5TllTakN5TzVWR282dVU1VnBtRkpUemhacnhzV085ckxB0gG-AUFVX3lxTE1saTFzY2pocEJBUENCb1ZQcVpIQy1keENhMEJ3OTM1OUdTTFhJbHRJUTZaRVE2Vlh5OXk1VDN3QndpamNGZF9uNmVqbzkxZkZjWGV3WnROQVpiRkdxallOYkdHTHc4YVg4Zk5UTzRpNzJxWXZOYUFFS0lLeGJ3TGlrRHRlMDd1M2FEZnZRR21yYWJlZG9oY0tGSllPU3lOWVNqQ3lPNVZHbzZ1VTVWcG1GSlR6aFpyeHNXTzlyTEE?oc=5",
-   "source": "Daily Express US",
-   "lang": "en",
-   "published": "2026-10-24T13:00:00+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -506,6 +497,15 @@
    "unconfirmed": true
   },
   {
+   "title": "NIS tells Assembly intelligence panel Kim Jong-un death rumors are false",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80eWQyd3dHbDRJZ2xLSGNUZmZYa0t4TjdzbHl4MUdIdnJYRUlFRE5sNlppaGUyTWlvcGRSVEdWamQ5ODRieWxRVXdfQ292T09nOWJNYWEzdw?oc=5",
+   "source": "헤럴드경제",
+   "lang": "en",
+   "published": "2026-10-23T09:17:58+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
    "title": "국정원 \"김정은 사망설 허위\" 국회 정보위에 보고",
    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HVnFoMk4tbnVRbW5zUEc1N3ZISXM2dnl2dFozVS12R1lqZEo5UjJCcEdJZUlhc2xuaURVdjJzUnhZRmxOMEFIU2k2UVU0MDlSRU02S3RYM3l2Vm1VN3BJLXdBQUNxNXc?oc=5",
    "source": "연합뉴스TV",
@@ -710,6 +710,15 @@
    "lang": "en",
    "published": "2026-10-22T12:46:47+00:00",
    "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "Truth behind Kim Jong Un's 'death' - all the signs North Korean despot was 'deteriorating'",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2s1QWlCT2lISHRlajZRc1BwMkxWcU9ieTBud0VwaGtEemVpSlVmODd4OTZHZExsMlJIZkIwRnllQlJqeEFma09JZC1XaVJmMFRYTkVWNEF0ZjFwdVpTVVJEWnV4ZTh1a0xmQWlUcXZFdXRHdFFEdkdSbjFVZ3U3TEhKRDROdEXSAYwBQVVfeXFMUHJpYncwSXBOMjM0S09xRTlrLVZWSHd1YlZqdE1WbC0zZDhhYml1RmJXUVJfZFNkRENpSXc3Xy1RWW1hYjJzUTFjSlhzR2d5VVAwT0phVXV1bGhfVkhVZnFzS0VRTWg5TkZQU2NlbUY0d3ZfbEluWEttNjVmMV9EU1VsdnR5bkYzRk9LN0o?oc=5",
+   "source": "Daily Express",
+   "lang": "en",
+   "published": "2026-10-22T12:45:00+00:00",
+   "category": "health",
    "unconfirmed": false
   },
   {
@@ -1069,15 +1078,6 @@
    "source": "MBC 뉴스",
    "lang": "ko",
    "published": "2026-10-22T00:18:43+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "김여정 “국경선 새 대응수단 임무 대기…확성기도 준비 태세”",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sdzZDOXBMaXVpZTE1Sk9IQWpKclp5N2lueU5HQUwxSEF4RXhHYTZTcndkSzhvTGVlR3IxLVFKQnBFb3hFTTlTY0RIbks3dFpiUmF0c1ZyWlFRdmRVZTljU3VNSlBQeTV1VDNJaWdqSDItR1dD?oc=5",
-   "source": "한겨레",
-   "lang": "ko",
-   "published": "2026-10-22T00:14:00+00:00",
    "category": "sister",
    "unconfirmed": false
   }
