@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T04:54:42.633643+00:00",
+ "generated_at": "2026-10-28T05:52:20.352409+00:00",
  "items": [
   {
    "title": "일본 고미 요지 기자 \"김정은 총비서 딸 김주애 일본 게임 한다는 정보 있다\"",
@@ -34,6 +34,15 @@
    "source": "UNILAD",
    "lang": "en",
    "published": "2026-10-26T08:56:32+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "Kim Jong Un resurfaces in China after rumors he was rushed there in a coma",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZVN0WVY3cW5LNG5YN0pZUXhhRGZOSjl6R0hIM1NMWkhwMFk3M0JDbkJ1b2RIMnpLR1l0WFFlUnB3VXJSbGRyNmtJRGRTMDk5QVVfaXFhNEJkSXdfNDlvaVVhSG50R3BXVGZmRzJDVXF5d1pieWtuQ1BRMWZKVExwMXNGRHBTYTlkVkxSd3dNUlBGUXRPaE1yNHJrZ1RRWDRIeWRMcQ?oc=5",
+   "source": "Dagens.com",
+   "lang": "en",
+   "published": "2026-10-26T07:04:29+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -281,15 +290,6 @@
    "unconfirmed": true
   },
   {
-   "title": "'사망설' 김정은, 중대장대회 직접 지도…\"최강 군대 건설\" 주문",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ekc5R2dTNFZCbUtzdm1oSEktZnZMdFJ1X1AzdFlwSnUwRDlnc1U5ZG5rTzRLZzl2QlhPNU5faGFBYU9hTXJtOEdic1MxbGpMZ3Y1Rjg2VnJQXzVKWGc?oc=5",
-   "source": "동행미디어 시대",
-   "lang": "ko",
-   "published": "2026-10-24T04:59:48+00:00",
-   "category": "health",
-   "unconfirmed": true
-  },
-  {
    "title": "Kim Jong-un Appears at Military Event, Four Days After Death Rumor",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGhGdjVsT25lbl9XUnFyc2ZfWUlmSUlBaW1uV25lN3pMdDFPQTRKeS1NaXd2eEJ3OGhoNmpCMFZMZjh4Y3ZFUTNjRV9fNmNabG9qTG1Ba0l0YUFXMVFXZ0l0VVhmUDhOeUhBbWJYX1pXaHJSQ1BTNnItNnpSbnRvdmRkRk80Zm1CTjlZeGs3VDhmdjgxeS00SGItZ2MxbC1YbURXQQ?oc=5",
    "source": "Seoul Economic Daily",
@@ -452,15 +452,6 @@
    "unconfirmed": true
   },
   {
-   "title": "北 김여정, '이례적' 말 폭탄 공세…의도는?",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KckkwWkpxQVdFNVlJRm55U3EySHNvd0pvbEgya25zcDA5bUZ1d2p2QlpHRENGaVBHS0lUYVl0UGpwZ3BiQUNWYjhTbUN4cWxON0NIYzRrU1pFLWZrZXVCM9IBYEFVX3lxTE5KckkwWkpxQVdFNVlJRm55U3EySHNvd0pvbEgya25zcDA5bUZ1d2p2QlpHRENGaVBHS0lUYVl0UGpwZ3BiQUNWYjhTbUN4cWxON0NIYzRrU1pFLWZrZXVCMw?oc=5",
-   "source": "연합뉴스",
-   "lang": "ko",
-   "published": "2026-10-23T11:49:22+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
    "title": "국정원 “김정은 사망설은 허위”···국회 정보위에 보고",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiY083M1VaM282VWYwZGxYZF9tN0RBb0Uwckszel9PYWQxbWJqVGRkMzZ5WjdIVnBtY3hoOUV2OXkwdlJqaWdVUW4wRFFBaGM5emVzckdLUlM2LUtBQlE?oc=5",
    "source": "주간경향",
@@ -468,6 +459,15 @@
    "published": "2026-10-23T11:49:00+00:00",
    "category": "health",
    "unconfirmed": true
+  },
+  {
+   "title": "北 김여정, ’이례적’ 말 폭탄 공세…의도는?",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWlV2OHI2SHFGT0M2RHR0enRsQkI3VE1uR1B3TE5tREJoM0JHTjJhbmVUMHJGd2hoMHhxY0dtMURNMmw2enBXdUtUTmp3VG10M2hlWmVSNnVpQWNUUUhRdGtib0Y3dWc?oc=5",
+   "source": "연합뉴스TV",
+   "lang": "ko",
+   "published": "2026-10-23T11:49:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
   },
   {
    "title": "\"北 김정은 사망설, 사실 아냐\"…국정원 입 열었다",
@@ -493,6 +493,15 @@
    "source": "Daily Express",
    "lang": "en",
    "published": "2026-10-23T10:45:00+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "국정원, 해외발 ‘김정은 사망설’ 일축…“명백한 허위 사실”",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVi1xRzNBdkp1cTBjOXowQWZaZHF1ZzUzTWVNN0l0SEktSnZ0QmZXUjJRS0NaY1MxdnBaLW0tR05XU1hrYmZaXzFRLVdpOEJDM3ZKLU1lNWjSAVRBVV95cUxOWWUzM3RfYzFBQmY3dlJIYWxhRklQSnV6U3hDU3pXaHJtQldBaWRSeDZpUUJVNGJHS25GWTRfVzVsVFZvbGhsVnFmNGhHREJvS1BiM0g?oc=5",
+   "source": "세계일보",
+   "lang": "ko",
+   "published": "2026-10-23T10:37:36+00:00",
    "category": "health",
    "unconfirmed": true
   },
@@ -578,15 +587,6 @@
    "unconfirmed": true
   },
   {
-   "title": "\"다급함 느껴지는 김여정\"…전례없는 발표 뒤 이상 징후? [지금이뉴스]",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kYVVGMW1iNWdvMURnX2hXSVF5dEtGUm1jcDRheW85ZGljSGNBYWFKOWROakhjZ2E5NllzOGRac296SDJwNDFUSXlkVWk3TzNxZ1k5SWgwUUo3OGNXVWc?oc=5",
-   "source": "YTN",
-   "lang": "ko",
-   "published": "2026-10-23T05:50:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
    "title": "北김여정, 전례없는 소나기 '등판'…전문가 \"조바심 느껴져\"",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITWV1eDNIWFVHb2JXV2Q1YXhjdjJFTnNYWkM4SElJNDk5Ri1zMkUtVzN1dWxRaVZ3blhqTVJoTXFzT1dWajNxX2FVNzlUMGpHTDRFbGlUYldCdlHSAWBBVV95cUxONmZUcGdZME9kWjliQ0ttSmhKZnM0aldHT25JUzdIMG1SU3JETjg2cm9mSURrVUgydXg2SjZORllUcTR1ZkRvS0FnUjNJX3JESmV0OU56V0hRbkFtX2RVZEY?oc=5",
    "source": "연합뉴스",
@@ -648,15 +648,6 @@
    "published": "2026-10-23T00:05:00+00:00",
    "category": "health",
    "unconfirmed": true
-  },
-  {
-   "title": "김여정 \"확성기 수일 내 대기\" 압박…우리 군 \"비례적 조치할 것\"",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBrS2ZibFhmTU5aVmdoNWtaMlBhOWM0VXc5bHJCamNZODlHTEVLVDFZSUFBUWpSdV9qYm1zeUNuUVhoY2FNcHIwLVIzVFNFTHZ4eWtDNA?oc=5",
-   "source": "JTBC",
-   "lang": "ko",
-   "published": "2026-10-23T00:02:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
   },
   {
    "title": "김정은 사망설 일파만파... '미국, 후계자로 김한솔 내정' 주장까지",
@@ -729,6 +720,15 @@
    "published": "2026-10-22T14:42:00+00:00",
    "category": "sister",
    "unconfirmed": false
+  },
+  {
+   "title": "Kim Jong Un death rumors, polling station claims — and more",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WU3VWRFBUZFVERm9GUHlITWthX0hKcmV4cGV1bDg3a196SW9fZnRRdF9vUEx4QmtyeVJ6NzFEVTgzZnE2emdhcHdkcHVGdHIy?oc=5",
+   "source": "Snopes",
+   "lang": "en",
+   "published": "2026-10-22T14:27:22+00:00",
+   "category": "health",
+   "unconfirmed": true
   },
   {
    "title": "Truth behind Kim Jong Un's 'death' - all the signs North Korean despot was 'deteriorating'",
@@ -808,15 +808,6 @@
    "source": "채널A",
    "lang": "ko",
    "published": "2026-10-22T10:05:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "김여정 “전 국경선에 새 대응수단 임무대기”",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fT2hFTWxOYzdRQTZRUWM2aER1Vl95Z3ZhQ2FCeUlua1pBanA1RXBXQXoxNXFGMWxTb2NuQko2ZmVnOFIyc0d2Ny1mU1pGZGd2anBFZk5teWNDd3RGTlHSAWNBVV95cUxPSlRhY1lJQVpnNDEzNDZMSFAwZ05XYXRULURVMjJkYkhRQWtNR0pfQk9nRmU3MUJocEdUYjczZFpGYU05UVNQdzJJOExIMzJIakU2RjVXOG5oWDV1TmhoVWJ4aTQ?oc=5",
-   "source": "채널A",
-   "lang": "ko",
-   "published": "2026-10-22T09:57:00+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -902,11 +893,11 @@
    "unconfirmed": false
   },
   {
-   "title": "김여정 \"새 대응수단·확성기 '대기'\"…연이틀 경고",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aN3F1WjhudTF1NEl5WFdxUl93V0JMZS1FWjVOQWJhV25LeF9lcWNPYzNyM0NHalRJZGhtMjE1Ty1YQUNnbE56amNHUFdjNkI1QTl3enRHZnBxTUHSAWBBVV95cUxQN1VBejY0VHR0ZHc2bTVHdGNfX2RBd0xVb19HV1ZPQlNyLTFaTHBMOE5DTHFLbmF6Mk9DQUx5dm1lN0wxMGNCcGJMaEFOZjBza0p3Z1o5LU5oc0pwSXp5Tlc?oc=5",
-   "source": "연합뉴스",
+   "title": "김여정 “새 대응수단·확성기 ’대기’“…연이틀 경고",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuNUp0VXkwQzFQdTliUGVGR01ORkZsMXZkUnFfeXFmYnFXYUZtWl9mZzE0aHdWNVB1M25QeW1CWG10Z0c4YnQ3RTJwdExRQU91VVVVcDAtM3ExTHhsN21oTlF0WDBRSjA?oc=5",
+   "source": "연합뉴스TV",
    "lang": "ko",
-   "published": "2026-10-22T07:44:30+00:00",
+   "published": "2026-10-22T07:44:00+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -992,6 +983,15 @@
    "unconfirmed": true
   },
   {
+   "title": "이틀 연속 원색적 비난 쏟아냈지만...김여정 발언의 속뜻 [자막뉴스]",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13aFF3dk5DbXdoVGdCeFd6TjRuVlhKal9EQzZKMEprZXdCb3ZZT1pVWUNER2hGRnd5ZHNOTk9LTjZzMmdfdjNwSW15cVVfUHhQZzFreHk2VWNLbktWZ0E?oc=5",
+   "source": "YTN",
+   "lang": "ko",
+   "published": "2026-10-22T05:14:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "Kim Yo-jong Threatens New Border Measures, Loudspeaker Resumption",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUdRLTFGVE9YYmxlVkNISU4taU9iSHNwcFBJOG0zejlNb0N6RExaZVBkSnFzWWYyelBXeEcyWkJsdXVxTU5pX1dNRGlsRzJnbGlCUjhmNDVQZjVBM2M3RGR2LVNCZWh5WW5KMUd0WEdOR3BkY1NCYUx0NG5BX2VvN0NRTE1SUHdyekNKdw?oc=5",
    "source": "조선일보",
@@ -1017,6 +1017,15 @@
    "published": "2026-10-22T04:22:50+00:00",
    "category": "sister",
    "unconfirmed": false
+  },
+  {
+   "title": "김정은 사망설 속 김여정 입에서 나온 '김정은 지시' 관련 발언 관심",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ba1RjbHN0VmxUdUtnbG43bWNSTVpWMWRBdjlxS2NsaFVSNWV1cXVGdE9JQlB6aUlpdEljTEk3Vzk1NjJ3Ymc2eFhmQXhid21KYUJ2N1FR?oc=5",
+   "source": "위키트리",
+   "lang": "ko",
+   "published": "2026-10-22T03:09:00+00:00",
+   "category": "health",
+   "unconfirmed": true
   },
   {
    "title": "김여정 “사정없이 처치”… DMZ 군사긴장 최고조",
@@ -1069,15 +1078,6 @@
    "source": "한겨레",
    "lang": "ko",
    "published": "2026-10-22T01:55:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "통일부, 김여정 ‘확성기 재개’ 위협에 “충돌 위험 키우는 행위 즉시 중단돼야”",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16d3UxQ0Z2cS1DVkFHWDdjY1hsWElEVmpoUFN6YnVPZkJJdjViaGpUaGtjNFZFMHRqaEg5TVMyMUFCREIyX1EyTkM3SUlpVFloQmJ4VjBydGtKQdIBX0FVX3lxTE9WVjNCcDZaQnl4ak1OSDNoNlRycXI0OExFRzZtOC1McmJEUTRCMTdZNzVjQWxucW1SNkxPLUI4T2FMUXRRNU5RQTZEcHFTMWhOcUVhSWZyU09pUWRuR2Jn?oc=5",
-   "source": "경향신문",
-   "lang": "ko",
-   "published": "2026-10-22T01:46:00+00:00",
    "category": "sister",
    "unconfirmed": false
   }
