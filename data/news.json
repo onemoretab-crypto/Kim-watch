@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T13:51:57.720369+00:00",
+ "generated_at": "2026-10-31T14:45:04.137169+00:00",
  "items": [
   {
    "title": "김여정은 왜 밝은 옷을 입고 전방에 나타났을까 …북한이 숨긴 사진, 북한이 퍼트린 사진 [청계천 옆 사진관]",
@@ -17,6 +17,15 @@
    "lang": "ko",
    "published": "2026-10-30T23:12:00+00:00",
    "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "\"Is Kim Ju-ae's Real Name Kim Ju-ae?\" NIS First Confirms, but What About North Korea?",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSUU1wTWFLZ3FmWElINEh1bGJQb1NUQWkwdjIxY1d0M1RqRTRXYktZcXRQSDlfT3YtcmV0OWV6WVBhdENXbm9fZ2hzQkY1X1kwV2dwN05CZmpfV3BINzhKamZ2b0Zka3lWN1JQdXN3?oc=5",
+   "source": "news.sbs.co.kr",
+   "lang": "en",
+   "published": "2026-10-30T07:13:00+00:00",
+   "category": "daughter",
    "unconfirmed": false
   },
   {
@@ -74,20 +83,20 @@
    "unconfirmed": false
   },
   {
-   "title": "박수치는 북한 김정은-김주애",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZNmU2Q0V6SmxOTU5JbXlkblNaYzlkblBKVTkzSF9XTEJFZmZuR1dlWk16OXhpOGZYWUtkUURpQ2kzRkVqMllLTXhqaFVFN0h1Zmxwd0stVTB0c2xKTTdXcA?oc=5",
-   "source": "뉴시스",
-   "lang": "ko",
-   "published": "2026-10-30T06:03:57+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "김정은 주먹 불끈, 김주애는 박수…국정원 `후계 서사 강화` 분석 직후 포착된 장면",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBueG5GT2o3S1JLdHNRSEJfN1NpZGZYUUlGWVlWZmZFbDR3NWItZUNRdUZZSHRCQk1oNWx5cU8wR205UlR0RHV4ZE5pUmZDSWpfYmEwSFplNzdLVm1MQjNRek9R?oc=5",
    "source": "매일신문",
    "lang": "ko",
    "published": "2026-10-30T05:31:58+00:00",
+   "category": "daughter",
+   "unconfirmed": false
+  },
+  {
+   "title": "김정은, 김주애와 600㎜ 방사포 사격 관람... \"힘이 곧 평화\"",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPcUZlck5SVDZGdExEM014RFJmbURLREczclFWREROSW54UE5HcnRJU1NuRkFDakpHaFdRdUNxLXBQTnZtZUNCZEtJU1BMQQ?oc=5",
+   "source": "인사이트",
+   "lang": "ko",
+   "published": "2026-10-30T04:50:59+00:00",
    "category": "daughter",
    "unconfirmed": false
   },
@@ -146,15 +155,6 @@
    "unconfirmed": false
   },
   {
-   "title": "당일치기 방중 김정은, 목적은 북미 대화?…딸 김주애 실명도 공식 확인",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kbzc0ZG1EOEplV0Z6cU1mekUzakx4U0VoalctSy1rMTc5UlotVl81ZXRxSXEwUmlqV0tWZHZ3bnM5Y2FvLXVELWR0RlTSAUxBVV95cUxPZG83NGRtRDhKZVdGenFNZnpFM2pMeFNFaGpXLUstazE3OVJaLVZfNWV0cUlxMFJpaldLVmR2d25zOWNhby11RC1kdEZU?oc=5",
-   "source": "매일경제",
-   "lang": "ko",
-   "published": "2026-10-29T22:48:00+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "김정은 딸 이름 “김주애 맞다”···후계구도 본격화",
    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpSWZVRWRNdkt4TXVETWRyRWtXcXpUYUNhaFNZMGF5MGhYU0o4bU1PRGY3a1BVTENxUmNlNU5QOHhIMzRNNjJPUzA2N3l3dw?oc=5",
    "source": "이코노믹포스트",
@@ -183,7 +183,7 @@
   },
   {
    "title": "[한기호 칼럼]김정은 사망설과 동기화된 추론",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fbnZ3OGZUU0tCRVhTcWs5NC1FSVVJOXpWR3FVMEJiUWF4OTkwamhoVEhTR0lWUkZia3hJMWg1VnRLTV9YTlJGRHl2a3hVY3k1T2dXLWxlV1XSAVhBVV95cUxNX252dzhmVFNLQkVYU3FrOTQtRUlVSTl6VkdxVTBCYlFheDk5MGpoaFRIU0dJVlJGYmt4STFoNVZ0S01fWE5SRkR5dmt4VWN5NU9nVy1sZVdV?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yNkU4SUJ2M0RCVzlVdzdnRExORWlWU1QtUXVEcGtDMzJERWZSejNXT0lUODRqbllOUmRzSWRWdkd2NnBRbk1jeFpWY3p6NVg3dHFTejRMbFdCUdIBWEFVX3lxTE1fbnZ3OGZUU0tCRVhTcWs5NC1FSVVJOXpWR3FVMEJiUWF4OTkwamhoVEhTR0lWUkZia3hJMWg1VnRLTV9YTlJGRHl2a3hVY3k1T2dXLWxlV1U?oc=5",
    "source": "아주경제",
    "lang": "ko",
    "published": "2026-10-29T21:00:00+00:00",
@@ -281,15 +281,6 @@
    "unconfirmed": false
   },
   {
-   "title": "국정원 “김주애 후계자 위상 강화…‘군 지도자’ 서사 구축”",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mcGFpRFZFSXl0VmdKakVTaTVvcnFwMUt5V0tpVjJiR3NzNjE4dHlONlhWRmFGU3FWY1ZJUFVoUkMySGVJMEdVVzJkTk1XekduZUY2Nk81bTNhS0puNW5mVWlsaE12b2JwbGc?oc=5",
-   "source": "뉴스버스",
-   "lang": "ko",
-   "published": "2026-10-29T09:34:45+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "국정원 \"김주애 후계 굳히기 단계\"…운영위는 고성 속 파행[CBS뉴스룸]",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxTS1hLWZLdVEzSzBmejV2Tm5DM1dMZTJFNmotbjI5R0FtLW1ZLW45QTZlQjRXdjZQNWJYXzZPb2pKNHhpSmEybU9QcXVPV3E0UEE?oc=5",
    "source": "노컷뉴스",
@@ -309,10 +300,10 @@
   },
   {
    "title": "13년 만에 공식적으로 확인된 김정은 딸 이름 '김주애' 맞았다",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVFhCbTVGUklUdUtCMU5BZlBfSUwteS1CdHZUcjBrWWFCTVhhRHVVd1Bia0tJZGd1dzVNZ1A2WDh1T0dNSk1xSE95YmZJa0Nja0Z5U0RpVEd2ZnVkbnVqNg?oc=5",
-   "source": "네이트",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53LTNJUnBmdXQtTTE4aUFXUFNsRzJuQU9mY3d5czc3aVhGVWJ5YTdPV3VXNXJJTmpsVl9UYTZoempBMjZnQUVrc0dvb1pWdTVlMVE?oc=5",
+   "source": "노컷뉴스",
    "lang": "ko",
-   "published": "2026-10-29T08:42:00+00:00",
+   "published": "2026-10-29T08:39:36+00:00",
    "category": "daughter",
    "unconfirmed": false
   },
@@ -350,15 +341,6 @@
    "lang": "ko",
    "published": "2026-10-29T08:23:04+00:00",
    "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "\"후계자 입지 강화\"…국정원, 김주애 최근 행보 집중 분석",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kWU80M3J0cnZGWmFUUjduYzVQQmlHOFZIS2VhTjFERUNaUUlxVXB5c2JCY3JZZVZCcVhfeWdoSG5UMzZqZ3NVb3hOQXhSVXF2M2F2Yk56RnFiYUZpLTNfMG9LTGhTeFJ2M1RHTUVR?oc=5",
-   "source": "시선뉴스",
-   "lang": "ko",
-   "published": "2026-10-29T08:16:23+00:00",
-   "category": "daughter",
    "unconfirmed": false
   },
   {
@@ -488,6 +470,15 @@
    "unconfirmed": true
   },
   {
+   "title": "국정원 \"北, 김주애 '軍지도자 서사' 구축…4개월째 사정 작업\"(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTzh1aVNwU2oyN0RQbWJtU3BIejcxRjI2TGU4R2dmX3o0RXNJN3EzV2pfUGt0YjdvRElWcGs2UDdDaGk2MmFVWU5WU2w5NFNjZjhtNjNsdGJvem_SAWBBVV95cUxOSFJnc2tCdEdQbUNSNFJRRjZZRF9XMGZORVZUWEZ6dnpheUZpTWUteTVrU3dEUUVPN2V5NHhBeGpFQjB2N2ZCSmZITHZsY1hVeGZ4Uk1DYldJdWJWRmRUWUg?oc=5",
+   "source": "연합뉴스",
+   "lang": "ko",
+   "published": "2026-10-29T07:30:04+00:00",
+   "category": "daughter",
+   "unconfirmed": false
+  },
+  {
    "title": "국정원, 김정은 딸 이름 ‘김주애’ 공식 확인",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40LWQ4UEFURWFzdjZKRVoyUkI1bnVCU01zUEhESkljTmFVZURBT3FGQzE0SFl2N3N4SnJhVEt1M0lDV1BiUlZMdUNKQTdhUTBpLV9SWUtBQWhTSUVTVFN5OWdqOVNPdmtBWEJjNXZQSQ?oc=5",
    "source": "뉴스톱",
@@ -529,15 +520,6 @@
    "source": "신아일보",
    "lang": "ko",
    "published": "2026-10-29T07:19:51+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
-   "title": "국정원 김주애 후계자 위상 단계적 각인…군 지도자 서사 구축",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Ya2ctUkoydExGWnVIcmQ4dXg1RHdTTGNXdGpSRmd0ei04NGZfUWhLNVJBeHNZekUzNVk3d1NpZGlXMFJHYTlYN0ZlaGrSAUxBVV95cUxNWGtnLVJKMnRMRlp1SHJkOHV4NUR3U0xjV3RqUkZndHotODRmX1FoSzVSQXhzWXpFMzVZN3dTaWRpVzBSR2E5WDdGZWhq?oc=5",
-   "source": "매일경제",
-   "lang": "ko",
-   "published": "2026-10-29T07:19:00+00:00",
    "category": "daughter",
    "unconfirmed": false
   },
@@ -696,7 +678,7 @@
   },
   {
    "title": "국정원 \"김주애 軍지도자 서사 구축…후계자 내정 더욱 공고히\"",
-   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQR2kyTF9nbFRqTUtQQUNrWEhObkgxTXc3bGFoM09uekYxMVRvU1lCY20yN2JScDNSTFU2cTBZN1QxR3pSOHlYNk5fTkFvVGlrNEFkNXRMQTQ1ZzlCSE9TLTRMNmp5cTU5YW00Z3hRTTB1cmx3WW9NYjJydEZtbjd4dzVDZ1ZILTB4U2tFU3lOR0tGM3lLdklPdHRlUTRacWlkWEVSQ29aY3NSTlRMb2xLZ2U5Wm13MXRrUEx5TF9PeUpjWEZMZm9RTWpqVHprRXEwQmhLRG1NSUh3WkNqS2kxVHVEZmxZZnhZWkZnWWlVOUYwaDIxMTFhclRJMk9RaEFpb3NWYXhFT1pOQzJsZGVnSXhOcmk2VE5mLVh6OVYtX3B4d1MwcWFxUkYzR25mbDNPWm1saXR3WHMwS01uc1FqRDhCdVVidHNOeVZ0M3JMSnhkYlJPWXNCcHN3Zmk1U0cwU012QkpCU3BkY0s1WThLdUx0OWdxV1k?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPN1Y4ZUNSbHFVZkEwQ3pYU3Y2UTRHWFJ4ZjdxV043SG9yTkxHNmRHQlZuWkhjU1dHSGxaaFZCVEFhUkNEMkpUdTYxRUl4NFR1VWpCcHp5Ym1LM2h5X0tlclJnSkRrVWFOUlI5eFlZZGxCOUlVaDdvNE5ndVhzTHJIcndTZnpHbm1UN3licUlobUJxQzN2OEU2OUNOMGhhbzhOMTBla1VDTnFueHNFREZmS2xXdHdmRjJmVndPTllvVTcyblB1a1NLVjlvUmxFN24xTG5zeUZNSV85NFI3bE5YUnFjczhvNTNGd3hSeDhNckxURXRLTEZVVnJwcXNNWUpZMXZvRS1TUlN5OU56aVROUzVxVUFCSWtiZDFQaVQtSkN0UVp2d25CTFdpbUZjbVEwLXpnODVhWndhLXEta0lQUExvZXQtOWdYU1VlbnhyZWpHSDFZai1WMGNUVUhNN29tNEo0YzN4aHZqa3AwRVBSQkZmUkFNa28?oc=5",
    "source": "중앙신문",
    "lang": "ko",
    "published": "2026-10-29T06:34:05+00:00",
@@ -749,15 +731,6 @@
    "unconfirmed": false
   },
   {
-   "title": "[속보] 국정원 “김주애 실명 맞다”…후계자 내정 관계 공고화하는 것으로 분석",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcTR0VXprUHplU0NERnBHT0I3cmxtQzdkbUV1dFRlNDlBd2dGS0pMakhsMllYUzEzTHBpUjRDMHpNcVloeXV2bXNad09UTlZMSElXcURyc3l3Q2lPVVlBVmhqNk1KQkRxYU9SNmh2Yk5YUUpOQWtKVllyNDN5MVY0Mw?oc=5",
-   "source": "이데일리",
-   "lang": "ko",
-   "published": "2026-10-29T06:29:25+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "국정원 “김주애 실명 맞다…후계 내정 단계 공고화”",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3o5ejlaVnBtb3h1WHJaVVdKcjV1V3Rrd09KYW9hT2VmOTY3SnRpVXBiTDdzMFBCNUwydV9KeXoxZjYzaDRReXA2Tk01NElhS1B4d25PaGNvRFEzaHVzYzN1ZHRZV09VNnJhX0U0cjFTWnYya0xoMDJRVExQVWVzVw?oc=5",
    "source": "이데일리",
@@ -791,15 +764,6 @@
    "lang": "ko",
    "published": "2026-10-29T06:22:21+00:00",
    "category": "health",
-   "unconfirmed": false
-  },
-  {
-   "title": "[속보]국정원 \"北, 김주애 軍지도자 서사 구축…핵·미사일 분야 실무관여 연출\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yaVRKVWpnc3R4eU83UW5PUnhKMnp6S2tlRmpwMnF3WDNpTGpycjNUS09lLXRUTVRIeVFjc1gwZHA2OEttSnVyUE81dlJoazczZ3NwTlhfTWR2TzVkTHpjYdIBeEFVX3lxTFBKYWJETUp6N2FJX3ZxMEM0LTVNellId0NDeEpPVkpWdlpEM0VfMU9CelRkU0VnNEdsM2VyUzJSNGJ3cXFYdGw1ZlN2TjI4eWVQTHZUWWlEbWhWNkR1RE0wS3JRYWxmZmo4eWl5RDhpdVFUcF9HY1kyeA?oc=5",
-   "source": "뉴시스",
-   "lang": "ko",
-   "published": "2026-10-29T06:17:26+00:00",
-   "category": "daughter",
    "unconfirmed": false
   },
   {
@@ -875,15 +839,6 @@
    "unconfirmed": false
   },
   {
-   "title": "[속보]국정원 \"北 '김주애'는 실명…후계자 내정 공고히 하는 중\"",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tNjlVbDRuYlNSNnhXWmt4cnlMdng0cG5UQWlCcUZJVWs1N3pKN0I4QjhISGtsSWRmelRpbW1ESHhOUXQzWmp6Z2xjVTJIVzllYUlYR1E0NG5aZTdqRTBBQtIBeEFVX3lxTE1WSTk0WHRtTDlYbWMxWHQ4dWhVSzhER1BldmpoR1ZtUFI3dl9PYlVlLXVoS1JJTnFyV0wwX2RETVJhRjdlanBQSVdSZ3VFU3FMN3Nuek5RZWZDNWFVc2VOWC1wNUQyd3N1Q21LTzREYXVRZHNUOXBqSg?oc=5",
-   "source": "뉴시스",
-   "lang": "ko",
-   "published": "2026-10-29T06:03:19+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "[속보] 국정원 \"김정은 딸 이름은 '김주애'\"…첫 공식 확인",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vNUdBSzZsZU1keXpkUlNzVDI2WnVsdWNpc3pVYzVwck1fZjRvbVpONFhlb3pCalRMRGpMazJzRWdiTkR0TS0xaWl1ZzZiZjVRbE5TU0VkYmhYVTJKZGxr?oc=5",
    "source": "뉴스1",
@@ -909,6 +864,15 @@
    "published": "2026-10-28T10:40:18+00:00",
    "category": "sister",
    "unconfirmed": false
+  },
+  {
+   "title": "국정원 \"김정은 사망설 허위\"…국회 정보위에 비공개 보고 > 뉴스포커스",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XWjhLWElLTkhxSm9IdFphTDJROXNEaGJqYWF5WHVQeWlpZXlDZ3RaMVR0Ml9rQUJ5NjYwLTNKYnIwRVlkQ3JpLUtrOU0?oc=5",
+   "source": "SeattleN",
+   "lang": "ko",
+   "published": "2026-10-28T09:59:12+00:00",
+   "category": "health",
+   "unconfirmed": true
   },
   {
    "title": "전북대 김정은 학부생, 된장과 신장 건강 연구 ‘우수포스터상’",
@@ -956,15 +920,6 @@
    "unconfirmed": false
   },
   {
-   "title": "일본 고미 요지 기자 \"김정은 총비서 딸 김주애 일본 게임 한다는 정보 있다\"",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UZlctU3lKMHhXWGcxVy1YYk91eUxfNFo5ai03QnY4N0lDTTB3Z3phQUw1SVBzcXVRdnR1MnlrRFdEcVZVTVZvREFaUS1WdmYwd3JXRlRRUHdyVGoxT0djRndzdWJqcWdSd1Fj?oc=5",
-   "source": "NK경제",
-   "lang": "ko",
-   "published": "2026-10-27T08:16:37+00:00",
-   "category": "daughter",
-   "unconfirmed": false
-  },
-  {
    "title": "\"사망설 무색\" 김정은, 방중·군 행사 이어 베트남에 답전",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01bFpNbWI4YmJKeV9GQ1pyMXBOQ3JMRUljRTZ3RFU0NVlrSlFBdHpPeGR2cks3anNqcmhzemlzNzRiZ3VQNkZWSm1RSkN6VlRjNW9iRXg5OWQwbkRjN2dTc1Jn?oc=5",
    "source": "매일신문",
@@ -1002,8 +957,8 @@
   },
   {
    "title": "The 11 contenders who could replace 'feared dead' Kim Jong-un - one threatened nuclear WW3",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1lPempZRkZHem9sVDg3amw0QUd6RU9OaGIwSldiSDVROWJJZ3NJajRJOU54U1FEVTlaUTJPdnIwZkFMX2J1RFlLVWxPa1RZdHV6dUM4bmROTHVoRzNsakdiQTZpaDJJUDBfOXR0NDNMTlB3Ty1PcHE3dU1GN2RxNDdNQjRjNHhrZkFJejZNbVJFX29uaDlFY0tDQVpMMF9odkHSAacBQVVfeXFMTlg0VmtqM2sweGFlNWluOGRxUk53QjZJSkZUaXlBT08xYnhIRVNHaXJNZGUzTk0zVi01R0JJbmlTdDlXaHJwaDcya1BCalM4YW5rd0dINGpmZDhJQmVWclI2b2M2Y1ZHX2FqT09Oa2RVUXBuQ2x6SGNpaVJCYk1Cd2pLVmVYR1Fjb0k1czNtVUFuejZvYlRmM2V4dnNjdFRpczJYWnN4Yms?oc=5",
-   "source": "Daily Express US",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGE4TGxMb1BKMGdyUVctVHhPc1BCOTlrWTlDSlpSTkRfOEZFaTR3MllvVVM1RTJqNzY1TEcxSFB5QXcwdlgwTk5wRzBfSWtyb3YtdXRQSFNGTW5ub0VwYS1jSlNuUEpoY1lqeDl4aDRIUkNTWXBTUHZEQnBhU2FYVm1RRDE?oc=5",
+   "source": "AOL.com",
    "lang": "en",
    "published": "2026-10-26T11:28:46+00:00",
    "category": "health",
@@ -1078,6 +1033,51 @@
    "source": "더팩트",
    "lang": "ko",
    "published": "2026-10-26T05:08:00+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "강신철 \"우리 군 대응에 北 김여정·박정천 전방 달려온 것\"",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jbzdkanF1dFMwaXRsUVl6Y2ZPX2lBMzJwTW50RWdsUVNNc29IcGFxdVd0bVZJQTZGb2VnM09DVl9DZjlHMEx2Y0JNVW1abm5nNnJkNnotVEJ0WVlibHhuQkNEMWhaX1E?oc=5",
+   "source": "뉴스1",
+   "lang": "ko",
+   "published": "2026-10-26T03:33:53+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "[단독] 김정은 단둥 행차에 명품백 들고 나타난 김여정·최선희",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83VFJBUS1hbVQ2eUcyQU9PVzI2Q3E0YUNyVnZhV3l0eWhQMEU1cXJFRTNRZm05dnMwSlZ2NmdjRVMtNHk4RERNSHVHZWxnSkpBZWotZ3VvcE5ZRkxJ?oc=5",
+   "source": "뉴스핌",
+   "lang": "ko",
+   "published": "2026-10-26T02:26:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "김정은, 사망설 의식했나…보란듯 벤츠 마이바흐 타고 신압록강대교 건넜다",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSWXdVN0NvbmtLa0NJczMyNUhQYVVxRlFkclNhME9ZOHVuUzJMcGdDNmxadWtVZ0FiaW1zQmdVWG1mTC1GWmZYYnU4enhNallOeDJtbjN2aTEyaEZZZXhiWDFn?oc=5",
+   "source": "매일신문",
+   "lang": "ko",
+   "published": "2026-10-25T22:14:53+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "Kim Jong-un 'death' rumors as daughter, 42, 'to be first female dictator'",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzZfZFJnUXNremtwY1BQQ0lfR2g2WndDb0ZBWHo4YjRLaUlBeXdLQnB6Z21GWUV6aldUa1dZNFRMVGtGWmZFN3d5Z2NoQ0NLTWw1S0k4aTl4SmVva0pSdmM2LUpUMXotT0dRNkZqS0RUeGlZNldHOWVxeWhWZnl2Uzc1VTlmUnJPb0pRQllpWVJ1bGxQbVBwQXNKRFpTanE0SkJqV1Mwd3VmcVZvXzNJVXR4ZUxQRTTSAbwBQVVfeXFMT21ETUIwOEVaVEpKM3VEUXBJdGloRlMxLU82SjlyeVYtWmZqdlJRYzhIbTl4OC1RSmlaZWNXNGc5R21mbTdLQWVwbWdhQVFJcm1tYTN6Q3FjV3VjVUU4Z3FNSGcxZVFzVHhZWTVGWjE4bFRzYzN6aDc2WGEwVUM5VHMzemlWcld1WVlmRTNsVnkySEsxbkhtU3UxNzRPanhDUktuTDdhV1A3MUJWV2RDcHhuc0JabFZYNVNZV0o?oc=5",
+   "source": "Daily Express US",
+   "lang": "en",
+   "published": "2026-10-25T21:58:24+00:00",
+   "category": "health",
+   "unconfirmed": true
+  },
+  {
+   "title": "Kim Jong Un makes surprise China trip after death rumours",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5TZHZaSXlJYU9UTjhLbU5qZU1uYTh3bWhHandrMXJwbEt0YUN5UVlvQ3JwMjJRUzk1eU1IdGlwQjZQd0Z3SHhZNGpvMEc1bDFXTTVmdEIzMi10aUtKdXJTUUdaR2ZLTFdKWTkzQ1NadENRcjNWamkxdlN3?oc=5",
+   "source": "AOL.com",
+   "lang": "en",
+   "published": "2026-10-25T18:39:31+00:00",
    "category": "health",
    "unconfirmed": true
   }
