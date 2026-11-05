@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T09:11:06.879556+00:00",
+ "generated_at": "2026-11-05T10:14:41.573046+00:00",
  "items": [
   {
    "title": "Chung Dong-young: “North Korea is signaling openness to dialogue” ... Still clinging to hope despite Kim Yo Jong’s rebuff",
@@ -97,6 +97,15 @@
    "source": "www.tokenpost.com",
    "lang": "en",
    "published": "2026-11-04T11:42:28+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "거듭 담화 낸 김여정 “대화 선택지 있지만…미국과 마주 앉을 필요 없다”",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSMFJvZGlZTHZMblQzRmJVSTdaOWMySHBCUkVCODlKb1gyd1VaV0Z4WDlyMkItcl9lMGlqdklUeHJ5bFdkcVA2V3o3NjRpNVVLRmRCVktjbEZ2Z3F1WTdJYmd6TlJBTFU4?oc=5",
+   "source": "한겨레",
+   "lang": "ko",
+   "published": "2026-11-04T11:09:00+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -312,15 +321,6 @@
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Tk1TdEVYeU05OFNVOEl4czgxSExpcHRMRHFQaWxjOGs2X1BmRzN2X20zNTM5a0tPUkt2THdGeTlTenNPS0pySUZ5MDZBYndGQUVuckdxU1ZMYVd5WkowcG5wdXd6YlJ1ZGppLU81S2Q3aHpCRG9vOGdqZTRfVmfSAZMBQVVfeXFMTlpfQjhuOTJUNlpfM1dka2l4VzNsSDM1WUpGN2lweUltYnE5RXBnM29JeUpwVjIwZXotX1hLaHl5TzlXS1JqUmdSUUp0NWtjTFVEeU1qQU40eW04aUx1RmE1MHBoMmdKTUtiRlBLVGh4aGl3Q3M0OVdsYkxSRG9NdlpDY1VVV0Izc2djU2p6QUF3WWow?oc=5",
    "source": "Chosunbiz",
    "lang": "en",
-   "published": "2026-11-04T00:45:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "北 김여정, 바이낸스 해킹 배후 지목에 재차 반발… “美 마주앉을 필요 없어”",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMm1CbFFrdUZ2Vjlhd0FPQzJIWWM2aC1tNFIxRF80Sjg4RlRueVZXdWFJRU9GVmJFcVJncVF5Vk4ybWhOeUVhUjlVTDhMb0JRLXJqem5RMVhEMHpSMmVYV0lFUW5TVkY5d2Z1SkVxT2ZJQW91cXVRVlNVU2xjQ3dPcmVlWm9jd9IBmgFBVV95cUxOYWhNS2ZjTFdER2FEYnl2eE1nTnM2aVZvQkhndlJzbUtCMFBTZ05WaGR6YVV6TWFaYkRDNEpuaXAzaEl6LWVUMGpkc3dlZjJCR2RiTzdIS3FUUXlWZVJMajQzZUE2bkhGTkpac3h2UXdaNHdtSTRZc1BMcHdZLVN2eXdOS1VKUHBfVEtMc0tUVUJpaWVnb3BGRkdn?oc=5",
-   "source": "Chosunbiz",
-   "lang": "ko",
    "published": "2026-11-04T00:45:00+00:00",
    "category": "sister",
    "unconfirmed": false
@@ -641,15 +641,6 @@
    "unconfirmed": false
   },
   {
-   "title": "北 김여정 “미국과 마주 앉을 필요 없다”…바이낸스 사태에 반발",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rTWxicjZXMVNVZm5qLWVyaEpNdEwyUGF0RGNOQWpwNGNXSFBzcW04Y0FYZTJjM05GaGJ4U2JpWjBoT01md2M2aHlwOWRsNkhSOWhLQktZZWN6Nk0?oc=5",
-   "source": "경기일보",
-   "lang": "ko",
-   "published": "2026-11-03T21:23:22+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
    "title": "[속보] 김여정, 바이낸스사태에 “미국과 대화 가능하지만 적대정책부터 바꿔야”",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ld3hsWEpmcnJ0aEFNTHh1S29NdVdUV1NjUFBadjFBQjFRLTlLRlNvRjNUcm41OFNkMUNCa0hIeGVER0JIWUZmOWF0c3dQY0otb1BYUl9n?oc=5",
    "source": "매일경제",
@@ -844,6 +835,15 @@
    "source": "MBC 뉴스",
    "lang": "ko",
    "published": "2026-11-03T07:58:18+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "김여정, 바이낸스 해킹 지목에 “정치적 도발, 여러 측면에서 재고”",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OTlI2T3M2NVFDYWlWT1ZpdVhHNGxXQmFkb3FycUJHMWRqSW1mRmxhQ19JbVFFSjVCa2xhSVZ1cEZBVmM3RFlXSXRjRjktUXNVT0FDTEE2bE8xdmZUWWdCTlRB?oc=5",
+   "source": "미주중앙일보",
+   "lang": "ko",
+   "published": "2026-11-03T07:58:00+00:00",
    "category": "sister",
    "unconfirmed": false
   },
