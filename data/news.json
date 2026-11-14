@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:34:20.973750+00:00",
+ "generated_at": "2026-11-14T17:07:48.191190+00:00",
  "items": [
   {
    "title": "“김정은 자리 비면 김여정 세상?”…4성 장군 고모부가 간 길에 ‘아찔’",
@@ -102,10 +102,19 @@
   },
   {
    "title": "“김여정, 스스로 공주라 생각하나…말도 안 섞더라” 탈북 외교관 폭로",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pWG9ZVUs1Rl93TWEwdzdlaURNUEZYdTRjM2NPRGNyT01fRjVsVEJjdnNqN1dvNktQM0cyWnV1eGJjOUE0UHlVNUVwemJuZk4yRzZsX2hRdGVTam9MOUl5T3BCQmk?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ydzBkOTZXTzI0WnEtc05CTnE5RWt0SFk4VU5iaWMtbnpKai1ScG1KZkhBZ3BBT0J3eFk2Q0NSakhkSVF5SzMtY1JWTEEzZVFDUzBpbzBGZGlwRmE5Y0ZaSEVtbFdlMjFudHJ3am53VHVOMHRqUmxBbA?oc=5",
    "source": "서울신문",
    "lang": "ko",
    "published": "2026-11-11T06:58:37+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "G7 \"北 핵·해킹 공동 대응\" 선언...김여정은 유엔 총장에 막말·협박",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xTDhXRXJyQnp4OUdWcnpuM3RuaWRzbVktS1duWVVjYXQ1NHRqdGtCMmx3TFcxTTkyVTNRQXFZYXc0dGZWSzNBM0ZPZmIxYnBGXzBoMC05UmNXd0RlaGh6VDYyNFlLVUdTUGw0?oc=5",
+   "source": "자유일보",
+   "lang": "ko",
+   "published": "2026-11-11T02:02:51+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -134,15 +143,6 @@
    "lang": "en",
    "published": "2026-11-10T17:23:11+00:00",
    "category": "daughter",
-   "unconfirmed": false
-  },
-  {
-   "title": "대북 의료지원 구상에 김여정 \"연속광대극…인간쓰레기들 무시할 것\"",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1ucWZyTzVLdFVRUXJvWXp6eG5UWFZvSGNXM1Jjcks1dVJBXzl6UWlrLXJQNFZMZ3BmV3RLRXREck9yczhhRGZrYWJHY1lwTmVmSktPcXVDMVJqanlocndBV2JhSXVpYnZDZEJMRWJEYXZ4ekMtRURIWU11cDJyMW1ud0VjQkU?oc=5",
-   "source": "JTBC",
-   "lang": "ko",
-   "published": "2026-11-10T16:37:38+00:00",
-   "category": "sister",
    "unconfirmed": false
   },
   {
@@ -205,15 +205,6 @@
    "source": "JFeed",
    "lang": "en",
    "published": "2026-11-10T12:14:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
-   "title": "[전문] 김여정 부장 “유엔 총장, 한국의 파렴치한 입장 대변”",
-   "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9nQUMxMVN1Znk5UGxTVGRMeEl5NjJKQUM2U3JBTmxCcXVDbmlZeEd3eGpwSUxuMzNaaWxCbW1lczhVa0E?oc=5",
-   "source": "자주시보",
-   "lang": "ko",
-   "published": "2026-11-10T11:54:06+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -344,6 +335,15 @@
    "unconfirmed": false
   },
   {
+   "title": "김여정, UN사무총장 비난…\"한국의 파렴치한 입장만 대변\"",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iR3I5cHlMMktvV25RRFBXOEVrdGpQOEFXQjNVWVYwbk53NE5BWm9oSnBNWUtmVXI5cUl3VHFrZ3pHYzQwbjNUOVY3WXY4VTdnZnc?oc=5",
+   "source": "노컷뉴스",
+   "lang": "ko",
+   "published": "2026-11-10T07:45:17+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "김여정, 남북 대화재개 촉구한 유엔 사무총장에 '韓 입장 대변 불과' 반발",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZMEhhZExPTVhsMkM3YXNwT2ROWU9FUDdQa0RlU0RCc0VmTjJMX3ZhYUR5d2k2UU1sSDhkRUlwQkZLeWZEdjNiLTREaGE4T0tOWmNWMEQ2NFR0blFiLWNmSVBBbUl4U1lndGxRZkFn?oc=5",
    "source": "통일뉴스",
@@ -398,15 +398,6 @@
    "unconfirmed": false
   },
   {
-   "title": "김여정 \"유엔 사무총장 무책임 태도…韓 파렴치한 입장 대변\"",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1IUDhuRkJGT0xZNnk1bHluWjVmbjk1ekxhWExwUkgyMEhGU0ZTWnpPMmVIV0xRMDF0Z0cxR1gxakYxZkhfdXMxai0ydkhiNlg5Q2dON2Ytc3LSAVNBVV95cUxNOVRpQXNWRnFsa2VENUlpaHdMZWx3XzRZekd6RFFnRktHd3R5UUxFUFMwNHZFU1RFVW9tNFFycXhvZVM0TW43V3pIcld4WEZnMkZEbw?oc=5",
-   "source": "더팩트",
-   "lang": "ko",
-   "published": "2026-11-10T07:27:59+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
    "title": "김여정, '한반도 대화 촉구' UN사무총장에 \"한국 편향…유감\"",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MUHlJcnUtdTd5TmgycjhyMjg0ZTI5cER5WDlIMDFrZlI2dUx0LUdna1NqN2ZGMkZmQUhoSENHajl3MjJkaGlXWTBqNkNHV3BvQ0hfaFpFT05LMXfSAWBBVV95cUxQby0yZDAzMmxSckw0d3NzMk83aVBFYXBFTGVpOWtOUGVLZDBnYnZPMERMWkxYbVNvcVBrX0F1TjllNzZKRGhtWkxEcEtaY1hTclE2LXVrbFdXdWtaNC0wbng?oc=5",
    "source": "연합뉴스",
@@ -434,15 +425,6 @@
    "unconfirmed": false
   },
   {
-   "title": "Kim Jong Un's sister accuses UN Chief of siding with South Korea over border blast | World News",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmlyMmVwcnJaUy1IQy1NN04yZXp1MHgwaXFIUlVPNC1pUjhhaHJ6MHlBdDJhSjJuOUZreUhuTGtwNlhJLUNVdUw4R0E1RW4zUnA5c2l2b24xS0xrSmR0MV9WWHM3SHg2RnBVSktDWnQ4MWxCakk0NmEwSlNwTWNsYXA5NldZS0tJMU1oeWNWd25sTUJjNmhvNmpDVlh1SUhBSDYwMDI4ZUtoYXl6VUo3WkpSS2l2bU1vTGJGZWJNMnNWMk9TdHg1eDVsWGhHZWw1VkZ5VXVMNGdlVnp60gHiAUFVX3lxTE9EbEo4d0RZMnVtZGJlQVBqQWt2ejBfNTFFY0VsbXFtOVRhWHVnMXpJYktlTnExc3dTZUpHWWdaOWhibUxrcEpUc1dYbGl0YWlOX0lTVnRZaHpqWERlYjNwWWlMOURMcEpMTzBRaFc5WWd6elJac3RLeTg2MEJVUVJtMmN1Sm8wNlNVZEhsRGl2TDU3T0gwRnYyaU9UMWpXckc2Zlh1bHpJYlVIQUQ3U255SHFWemRQWlhIV19kbjZMcjB0bVMzYmJmUEswVndRaTVud09wR0xuZnpXSzlxLThEbmc?oc=5",
-   "source": "Hindustan Times",
-   "lang": "en",
-   "published": "2026-11-10T07:12:00+00:00",
-   "category": "sister",
-   "unconfirmed": false
-  },
-  {
    "title": "김여정, 유엔 사무총장 비난 \" 군사 충돌 발생하면 책임 자유롭지 못해\"",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbU9ZWGQzQkxEZlZYMnBheDVIT2FGaHMxQzgwSzRLZ18yRUFuMG9LLXBDeDd6VWVHNDdHMkgtVnFCRV8wN0FsQWJ3bThZQXI1NUtXNlhTMHF0Uk1zWjRpcldXaGEzLVVqMlZ5dDRrQTlPeEVSRVRB?oc=5",
    "source": "OhmyNews",
@@ -461,11 +443,29 @@
    "unconfirmed": false
   },
   {
+   "title": "김여정 \"유엔사무총장이 무식하고 나약\" 맹비난..지뢰사고 北에 책임 전가",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YVHVaV205RlVPZXFzOTJaa1RnY3lCckVfcWMycGhBcmtjMUk1UXF3QU9JZkt1RzhBRGtjWWYxTGU4LWltSVEteDkteklOd3VYWENoNlpGNlVkUQ?oc=5",
+   "source": "파이낸셜뉴스",
+   "lang": "ko",
+   "published": "2026-11-10T06:59:47+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "김여정, 대화 촉구한 유엔 사무총장 향해 \"한국 궤변 대변\" 맹비난",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2JYbTMzTG42ZXZUaFBKVEhMSGY3YTlZMjhCeDBxRlNpWmFUSWxJNnlHV2doeTVGYlpqVFpacVE1ZmctT0JGTk5vWXNlS1NKM0RzbTZfcEkwTUVhTnJHaU81R2VKVzBZRDJKdzFZN05lbzlCLURnMDRvUWxBdXNzVjE4QWJlMnR3Vmc?oc=5",
    "source": "조선일보",
    "lang": "ko",
    "published": "2026-11-10T06:57:45+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
+   "title": "북 김여정, '대화 촉구' 유엔 사무총장에 \"韓 파렴치한 입장 대변\"",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vQURIWEMzdDJJR2Z3UGZ0ZjFZcFhXbHYzUlc3WHZOWkw0MHdLeFRIQmdYdkJNaXR4Z2VyX1FZN0E4T25xQTFiQUxkN3NxN3k2cm1iMWU4eTQzeXVDbHZ6NtIBeEFVX3lxTFBibEdlMVc4UXZnS1BsWWFoOUV3cUQ2b3JOa2ZCdFlRcmJiZUExV0g4LTE4SnF0S3cwR0k0Y0ZZZ19lQ2lFV0l1czdkUW5GaG1DV2RFMzZENzBDTlVRYnYxTUJrNUt3Z1RKcUhlNnE2ZVpHWGhldkRtWg?oc=5",
+   "source": "뉴시스",
+   "lang": "ko",
+   "published": "2026-11-10T06:56:47+00:00",
    "category": "sister",
    "unconfirmed": false
   },
@@ -542,18 +542,18 @@
    "unconfirmed": false
   },
   {
-   "title": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\"",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfc1RPTTQ0M2FOdmZsSnpOUUZEdm1GVGxfd25MWHZCenE2TUN4YldQWnRkbi15Y240bUlJUTlOV0JDQ1N0bWo5QUVFOE1DN3g5TGNNSTdGczhuWm5EbVZteUtFaFBqM1JKUGI2Yk1KZw?oc=5",
-   "source": "YTN",
+   "title": "김여정 \"유엔 사무총장, 한국 파렴치한 입장 대변…유감\"",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MUjBha252SDZNaEh1N1VmVWtFYkhkVjJvNXhoQ012eW8tT0JNOUxnMkZpOWRKVGgyMHJKajhXelZGUFl6QzBSY1ZiTUc3MkEzaldRV20zZjE2eTRXU3dYS0hNSWNiQ3ZCaHc?oc=5",
+   "source": "SBS 뉴스",
    "lang": "ko",
-   "published": "2026-11-10T06:37:00+00:00",
+   "published": "2026-11-10T06:37:26+00:00",
    "category": "sister",
    "unconfirmed": false
   },
   {
-   "title": "김여정 \"유엔 사무총장, 한국 파렴치한 입장 대변…유감\"",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82eFl4aWxzM0EtTmFuelZ1dUg0QkYtWklNclVYVjhpaHhWQzVnTU1BU0hJTkhULTU2NGp4WlZDTS1rMTZwcnRzOUNzN2wwWUYwZWxnLURlOWw5ZkxIQkRGMlRWeXZmdw?oc=5",
-   "source": "news.sbs.co.kr",
+   "title": "북 김여정, 유엔 사무총장에 \"지뢰 사고 전가하는 파렴치 한국 대변\"",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfc1RPTTQ0M2FOdmZsSnpOUUZEdm1GVGxfd25MWHZCenE2TUN4YldQWnRkbi15Y240bUlJUTlOV0JDQ1N0bWo5QUVFOE1DN3g5TGNNSTdGczhuWm5EbVZteUtFaFBqM1JKUGI2Yk1KZw?oc=5",
+   "source": "YTN",
    "lang": "ko",
    "published": "2026-11-10T06:37:00+00:00",
    "category": "sister",
@@ -596,6 +596,15 @@
    "unconfirmed": false
   },
   {
+   "title": "“김여정은 스스로 공주라 생각”…탈북 외교관이 밝힌 일화",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4X2dkZW5xZnRScTRTMHJ6eUhOUnQtVkpfdUQ2TjNQUm1RbF9ZNHM4TklFTmc2ZWVJZUYxX2x3Z1NBQktJdmt0UnU2WFBJN3ZoOUZ6Mk9B?oc=5",
+   "source": "위키트리",
+   "lang": "ko",
+   "published": "2026-11-10T01:43:00+00:00",
+   "category": "sister",
+   "unconfirmed": false
+  },
+  {
    "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wYlhUbW1EWWxDYXdPcTh1QTRGT1dPZGhaejMxYTNqdW83NnNkZ1JMdDlsaHhNUEpwa1EyeXNKcVo3bkFsWFFkc1VDZmZnYWhSbkVsTmh5WGsxYVYtenRhZnhoZk1XZ250R1E?oc=5",
    "source": "주간조선",
@@ -605,7 +614,7 @@
    "unconfirmed": false
   },
   {
-   "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 생큐\"",
+   "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 땡큐\"",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80NV9sMWNUNVp2M3ZJYUp2QlM5SWJOY19PSm85dDc4Rnh5d3I4RGVLUWt4XzlHVzZFOWtMVk5MZW9lNDJ2ZHd5bmg3blN1eTRhejdOcGhEcFdodGNSLUFoX2h3?oc=5",
    "source": "뉴스1",
    "lang": "ko",
